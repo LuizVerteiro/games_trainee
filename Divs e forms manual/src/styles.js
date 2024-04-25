@@ -17,6 +17,7 @@ export const Input = styled.input`
   margin-bottom: 10px;
   padding: 5px;
   font-size: 1rem;
+  border: 1px solid black;
 `;
 
 export const Button = styled.button`
@@ -26,6 +27,7 @@ export const Button = styled.button`
   color: white;
   border: none;
   cursor: pointer;
+  margin-bottom: 10px;
 `;
 
 export const DisplayInfo = styled.div`
